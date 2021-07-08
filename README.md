@@ -1,9 +1,9 @@
 # LeetCodeRecord
 <hr>
-### 2020年9月17日一时兴起刷LeetCode，未曾在github记录；
+#### 2020年9月17日一时兴起刷LeetCode，未曾在github记录；
 <br>
-### 2021年7月8日，重拾LeetCode，同时做一些零散的记录。
+#### 2021年7月8日，重拾LeetCode，同时做一些零散的记录。
 <br>
-### C/C++、Java、Python、Rust多种语言混合；
+#### C/C++、Java、Python、Rust多种语言混合；
 <br>
-### 毫无观感，纯看心情。
+#### 毫无观感，纯看心情。
