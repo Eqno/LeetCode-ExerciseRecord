@@ -1,4 +1,5 @@
 # LeetCodeRecord
+<br>
 2020年9月17日一时兴起刷LeetCode，未曾在github记录；
 <br>
 <br>
